@@ -6,6 +6,7 @@ A Machine Learning-based solution to automatically categorize and analyze custom
 ---
 
 ## Features
+
 - **NLP-based categorization:** Uses Python’s Naive Bayes classifier to automatically classify tickets.
 - **SQL integration:** Stores categorized tickets in a Railway-hosted MySQL database.
 - **Automation:** Reduces manual classification efforts by **50%**.
@@ -15,6 +16,7 @@ A Machine Learning-based solution to automatically categorize and analyze custom
 ---
 
 ## Technologies Used
+
 - **Languages & Libraries:** Python, Pandas, Scikit-learn, MySQL Connector
 - **Database:** MySQL (Hosted on Railway)
 - **Tools:** GitHub, Railway, VS Code
@@ -41,37 +43,46 @@ A Machine Learning-based solution to automatically categorize and analyze custom
 
 ## Repository Structure
 
-Customer-Support-Ticket-Analyzer/ ├── support_tickets.csv # Raw dataset ├── ticket_classifier.py # Python script for categorization ├── support_tickets_categorized.csv # Categorized output ├── insert_support_tickets.py # Python script for DB insertion ├── SQL_queries.sql # SQL table creation queries └── README.md # Project overview and documentation
-
-yaml
-Copy
-Edit
+```
+Customer-Support-Ticket-Analyzer/
+├── support_tickets.csv                  # Raw dataset of support tickets
+├── support_tickets_categorized.csv      # Output CSV after categorization
+├── ticket_classifier.py                 # Python script for categorizing tickets
+├── insert_support_tickets.py            # Python script to insert data into MySQL
+├── SQL_queries.sql                      # SQL queries (DB & table creation)
+└── README.md                            # Project overview and instructions
+```
 
 ---
 
 ## How to Run the Project
 
 1. Clone the repository:
-```bash
+
+```
 git clone https://github.com/YOUR_USERNAME/Customer-Support-Ticket-Analyzer.git
-Install dependencies:
-bash
-Copy
-Edit
+```
+
+2. Install dependencies:
+
+```
 pip install pandas scikit-learn mysql-connector-python
-Update Railway database credentials in insert_support_tickets.py.
+```
 
-Run scripts:
+3. Update Railway database credentials in `insert_support_tickets.py`.
 
-bash
-Copy
-Edit
+4. Run scripts:
+
+```
 python ticket_classifier.py
 python insert_support_tickets.py
-SQL Table Creation Query
-sql
-Copy
-Edit
+```
+
+---
+
+## SQL Table Creation Query
+
+```
 CREATE DATABASE support_ticket_analyzer;
 USE support_ticket_analyzer;
 
@@ -80,15 +91,10 @@ CREATE TABLE support_tickets (
   message TEXT,
   category VARCHAR(50)
 );
-License
-This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
+```
 
 ---
 
-✅ Paste this into your `README.md` file on GitHub, and replace `YOUR_USERNAME` with your GitHub username.
+## License
 
-**Need help with finalizing your GitHub repo structure or links in your resume? 😊**
+This project is licensed under the MIT License.
