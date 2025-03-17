@@ -32,9 +32,10 @@ A Machine Learning-based solution to automatically categorize and analyze custom
 2. **Model Training:**
    - Applied **Naive Bayes classifier** using `scikit-learn` to learn ticket categories.
   
-3. **Automation:**
-   - Predicted categories for remaining tickets.
-   - Inserted fully categorized data into **Railway MySQL database**.
+3. ## Tableau Dashboard
+
+👉 [View Interactive Dashboard](https://public.tableau.com/views/CustomerSupportTicketAnalysisDashboard/CustomerSupportTicketAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 4. **Optional Visualization:**
    - Database can be connected to **Looker Studio** for real-time reporting.
