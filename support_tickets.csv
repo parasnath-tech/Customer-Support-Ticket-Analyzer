@@ -1,0 +1,101 @@
+ticket_id,message,category
+1,I can't log into my account,Login Issue
+2,Payment failed during checkout,Payment Issue
+3,My order was delivered late,Delivery Issue
+4,How do I reset my password?,Login Issue
+5,The product I received is damaged,Product Issue
+6,I need to cancel my order,Order Issue
+7,Received the wrong item in my order,Product Issue
+8,My refund hasn't been processed yet,Refund Issue
+9,Unable to update my shipping address,Account Issue
+10,Discount code is not working at checkout,Payment Issue
+11,My account got locked,Login Issue
+12,Product description on website is incorrect,Product Issue
+13,How do I change my payment method?,Payment Issue
+14,I want to unsubscribe from promotional emails,Account Issue
+15,The website is not loading properly,Technical Issue
+16,Delivery tracking number is not valid,Delivery Issue
+17,Can't reset my account password,Login Issue
+18,Product quality is not as expected,Product Issue
+19,"Received incomplete order, missing items",Order Issue
+20,How to contact customer service directly?,General Query
+21,I was charged twice for the same order,Payment Issue
+22,Unable to apply for return request,Refund Issue
+23,My app keeps crashing on startup,Technical Issue
+24,Received expired product,Product Issue
+25,I want to update my billing details,Account Issue
+26,Cannot apply discount code at checkout,Payment Issue
+27,Order tracking link is broken,Delivery Issue
+28,How do I delete my account permanently?,Account Issue
+29,Wrong product color delivered,Product Issue
+30,My account keeps getting logged out automatically,Login Issue
+31,Payment deducted but order not placed.,
+32,Need assistance in changing delivery date.,
+33,"Received duplicate product, need to return.",
+34,Customer support phone number not reachable.,
+35,Unable to update email address in profile.,
+36,Product packaging was damaged upon delivery.,
+37,No option to reschedule delivery.,
+38,App shows error while processing payment.,
+39,Cannot find order history in my account.,
+40,I want to change the product after placing order.,
+41,Refund is delayed beyond expected time.,
+42,Trouble adding items to cart.,
+43,Got charged for a cancelled order.,
+44,How to use store credits on checkout?,
+45,Product warranty details missing.,
+46,Received empty package.,
+47,Issue while redeeming gift card.,
+48,Can't update phone number in my profile.,
+49,Duplicate charge on credit card statement.,
+50,Need invoice copy for my order.,
+51,I want to change delivery address after ordering.,
+52,Unable to apply gift voucher at checkout.,
+53,Order confirmation email not received.,
+54,How can I update my password?,
+55,"Received defective product, want replacement.",
+56,My loyalty points are not showing up.,
+57,Need help to update payment details.,
+58,Website freezes during checkout process.,
+59,Received fewer items than ordered.,
+60,Want to cancel subscription plan.,
+61,Order status not updating on website.,
+62,How to activate cashback offer?,
+63,Received wrong size product.,
+64,Trouble uploading documents for verification.,
+65,Chat support is not responding.,
+66,Delay in refund after return.,
+67,Coupon code expired too early.,
+68,My credit card was charged incorrectly.,
+69,Want to remove saved addresses.,
+70,How do I track my refund status?,
+71,Received duplicate email confirmations.,
+72,Need help updating contact preferences.,
+73,Unable to download invoice from app.,
+74,Product image doesn't match received item.,
+75,I want to deactivate auto-renewal.,
+76,Account verification link expired.,
+77,I want to switch delivery slots.,
+78,Refund amount is incorrect.,
+79,Subscription renewal failed.,
+80,Can't change product quantity in cart.,
+81,"Delivery partner was rude, want to report.",
+82,Gift wrapping option missing at checkout.,
+83,"Trouble signing up, verification not working.",
+84,Extra charges applied without notice.,
+85,Can't remove items from wishlist.,
+86,Delivery marked completed but package not received.,
+87,Account locked after multiple login attempts.,
+88,Problem applying store credits to order.,
+89,Can't update notification settings in app.,
+90,Need assistance reactivating deactivated account.,
+91,Received wrong invoice details.,
+92,Can't change preferred language in app.,
+93,Payment option missing during checkout.,
+94,Unable to apply cashback reward points.,
+95,My order got cancelled without reason.,
+96,Cannot reset PIN for payment method.,
+97,Invoice shows incorrect tax calculation.,
+98,Package arrived open/tampered.,
+99,Difficulty finding return policy details.,
+100,Unable to find support contact for bulk orders.,
